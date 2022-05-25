@@ -8,6 +8,6 @@
     <domain-config>
         <domain includeSubdomains="true">github.com</domain>
         <domain includeSubdomains="true">raw.github.com</domain>
-        <domain includeSubdomains="true">drive.google.com</domain>
+        <domain includeSubdomains="true">n3rd3x3.xyz</domain>
     </domain-config>
 </network-security-config>

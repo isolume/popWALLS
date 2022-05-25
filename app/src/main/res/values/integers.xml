@@ -2,5 +2,4 @@
 <resources>
     <integer name="wallpapers_columns_count">2</integer>
     <integer name="collections_columns_count">1</integer>
-    <integer name="default_theme">3</integer>
 </resources>

@@ -23,10 +23,10 @@
     <bool name="animations_enabled_by_default">true</bool>
 
     <!-- Privacy Policy link or url -->
-    <string name="privacy_policy_link">""</string>
+    <string name="privacy_policy_link">"https://n3rd3x3.dev/privacy"</string>
 
     <!-- Terms and Conditions link or url -->
-    <string name="terms_conditions_link">""</string>
+    <string name="terms_conditions_link">"https://n3rd3x3.dev/ToS"</string>
 
     <!--
     Do you want to show your app and the dashboard versions in settings?
