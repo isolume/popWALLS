@@ -2,9 +2,7 @@ name: Build
 
 on:
   push:
-    branches:
-      - sample
-      - master
+  workflow_dispatch:
 
 jobs:
   test:
