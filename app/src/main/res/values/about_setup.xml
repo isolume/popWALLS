@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://github.com/n3rd3x3.png</item>
+        <item>https://ssl.gstatic.com/images/branding/product/2x/avatar_square_grey_512dp.png</item>
+    </string-array>
+
+    <string-array name="credits_titles">
+        <item>n3rd3x3</item>
+        <item>galahad_wpx</item>
+    </string-array>
+
+    <string-array name="credits_descriptions">
+        <item>Developer, wallpaper creator</item>
+        <item>Wallpaper creator</item>
+    </string-array>
+
+    <string-array name="credits_buttons">
+        <item>Website|GitHub|Twitter|Telegram</item>
+        <item>Telegram</item>
+    </string-array>
+
+    <string-array name="credits_links">
+        <item>https://n3rd3x3.dev|https://github.com/n3rd3x3|https://twitter.com/n3rd3x3|https://t.me/n3rd3x3</item>
+        <item>https://t.me/galahad_wpx</item>
+    </string-array>
+</resources>
