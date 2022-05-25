@@ -1,7 +1,6 @@
 package dev.n3rd3x3.popWALLS
 
 import com.github.javiersantos.piracychecker.PiracyChecker
-import dev.jahir.frames.app.R
 import dev.jahir.frames.ui.activities.FramesActivity
 
 class MainActivity : FramesActivity() {
