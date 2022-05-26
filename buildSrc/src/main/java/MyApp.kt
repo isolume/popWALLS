@@ -2,6 +2,6 @@
 
 object MyApp {
     const val appId = "dev.n3rd3x3.popWALLS"
-    const val version = 92
-    const val versionName = "0.9.2"
+    const val version = 100
+    const val versionName = "1.0.0"
 }
