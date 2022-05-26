@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v1.0.0" />
-    <item text="Initial public release" />
-    <item text="Add most wallpapers present on old" />
-    <item text="Fix app logo" />
+    <version title="v1.0.1" />
+    <item text="Fix some credits" />
 </resources>

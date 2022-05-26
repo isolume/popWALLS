@@ -8,6 +8,7 @@
         <item>https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/assets/iOSXPC.jpeg</item>
         <item>https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/assets/ArzjoDev.jpeg</item>
         <item>https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/assets/antonajdhdhb.jpeg</item>
+        <item>https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/assets/decipher3114.jpeg</item>
     </string-array>
 
     <string-array name="credits_titles">
@@ -18,6 +19,7 @@
         <item>iOSXPC</item>
         <item>Arzjo Design</item>
         <item>Atlasov Anton</item>
+        <item>decipher</item>
 
     </string-array>
 
@@ -25,6 +27,7 @@
         <item>Developer, wallpaper creator, designer</item>
         <item>Wallpaper creator, designer</item>
         <item>Wallpaper creator, popMODS founder</item>
+        <item>Wallpaper creator</item>
         <item>Wallpaper creator</item>
         <item>Wallpaper creator</item>
         <item>Wallpaper creator</item>
@@ -39,6 +42,7 @@
         <item>Telegram|Apps</item>
         <item>Telegram|Apps</item>
         <item>Telegram</item>
+        <item>Telegram</item>
     </string-array>
 
     <string-array name="credits_links">
@@ -49,5 +53,6 @@
         <item>https://t.me/iosxpc|https://play.google.com/store/apps/dev?id=8241325694316298254</item>
         <item>https://t.me/ArzjoDev|https://play.google.com/store/apps/dev?id=5509040561085650680</item>
         <item>https://t.me/antonajdhdhb</item>
+        <item>https://t.me/decipher3114</item>
     </string-array>
 </resources>
