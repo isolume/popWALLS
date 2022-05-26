@@ -327,22 +327,6 @@
           "copyright": "Personal Use only"
       },
           {
-        "name": "Fluid 4",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/fluid4.png",
-         
-        "collections": "Abstract",
-        "author": "justnewwalls",
-        "copyright": "Personal use only"
-      },
-          {
-        "name": "Fluid 3",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/fluid3.png",
-         
-        "collections": "Abstract",
-        "author": "justnewwalls",
-        "copyright": "Personal use only"
-      },
-          {
         "name": "Astro 5",
         "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/astro5.png",
          
@@ -646,70 +630,6 @@
         "author": "popleble",
         "copyright": "Personal use only"
       },
-       {
-        "name": "Moonshine 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/moonshine2.jpg",
-         
-        "collections": "Material",
-        "author": "justnewwalls",
-        "copyright": "Personal use only"
-      },
-        {
-        "name": "Moonshine",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/moonshine.jpg",
-         
-        "collections": "Material",
-        "author": "justnewwalls",
-        "copyright": "Personal use only"
-      },
-      {
-        "name": "Shapes 5",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/shapes5.PNG",
-         
-        "collections": "Shapes",
-        "author": "justnewwalls",
-        "copyright": "Personal use only"
-      },
-      {
-        "name": "Shapes 4",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/shapes4.PNG",
-         
-        "collections": "Shapes",
-        "author": "justnewwalls",
-        "copyright": "Personal use only"
-      },
-      {
-        "name": "Shapes 3",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/shapes3.PNG",
-         
-        "collections": "Shapes",
-        "author": "justnewwalls",
-        "copyright": "Personal use only"
-      },
-      {
-        "name": "Shapes 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/shapes2.PNG",
-         
-        "collections": "Shapes",
-        "author": "justnewwalls",
-        "copyright": "Personal use only"
-      },
-      {
-        "name": "Shapes 1",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/shapes1.jpg",
-         
-        "collections": "Shapes",
-        "author": "Digital Ali",
-        "copyright": "Personal use only"
-      },
-      {
-        "name": "Shapes",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/shapes.jpg",
-         
-        "collections": "Shapes",
-        "author": "Digital Ali",
-        "copyright": "Personal use only"
-      },
       {
         "name": "BT21 Van",
         "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/bt21_van.png",
@@ -741,78 +661,6 @@
         "collections": "Characters",
         "author": "iOSXPC",
         "copyright": "©BIG HIT X LINE FRIENDS  Personal use only"
-      },
-        {
-        "name": "Pot 4",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/pot4.PNG",
-         
-        "collections": "Flora",
-        "author": "justnewwalls",
-        "copyright": "Personal use only"
-      },
-        {
-        "name": "Pot 5",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/pot5.PNG",
-         
-        "collections": "Flora",
-        "author": "justnewwalls",
-        "copyright": "Personal use only"
-      },
-       {
-        "name": "Pot 6",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/IMG_5239.PNG",
-         
-        "collections": "Flora",
-        "author": "justnewwalls",
-        "copyright": "Personal use only"
-      },
-      {
-        "name": "Marigold",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/marigold.PNG",
-         
-        "collections": "Abstract",
-        "author": "justnewwalls",
-        "copyright": "Personal use only"
-      },
-       {
-        "name": "Magnolia",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/magnolia.PNG",
-         
-        "collections": "Abstract",
-        "author": "justnewwalls",
-        "copyright": "Personal use only"
-      },
-       {
-        "name": "Gel",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/gel.PNG",
-         
-        "collections": "Abstract",
-        "author": "justnewwalls",
-        "copyright": "Personal use only"
-      },
-      {
-        "name": "Desert",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/desert.PNG",
-         
-        "collections": "Abstract",
-        "author": "justnewwalls",
-        "copyright": "Personal use only"
-      },
-       {
-        "name": "Blobs",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/blobs.jpg",
-         
-        "collections": "Abstract",
-        "author": "justnewwalls",
-        "copyright": "Personal use only"
-      },
-         {
-        "name": "Tubes",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/tubes_amoled.png",
-         
-        "collections": "Amoled",
-        "author": "Galahad WPX",
-        "copyright": "Personal use only"
       },
        {
         "name": "Fluid",
