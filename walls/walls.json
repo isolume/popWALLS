@@ -1,7 +1,7 @@
 [ 
     {
         "name": "Windows 11 Inspired 1",
-        "url": "https://github.com/n3rd3x3/popWALLS/raw/main/walls/win11.1.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/win11.1.png",
         "author": "n3rd3x3",
         "collections": "OS Inspired",
         "size": 9558024,
@@ -10,7 +10,7 @@
     },
     {
         "name": "Windows 11 Inspired 2",
-        "url": "https://github.com/n3rd3x3/popWALLS/raw/main/walls/win11.2.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/win11.2.png",
         "author": "n3rd3x3",
         "collections": "OS Inspired",
         "size": 8793882,
@@ -19,7 +19,7 @@
     },
     {
         "name": "Gradient Rocks 3",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/gradient_rocks3.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/gradient_rocks3.png",
          
         "collections": "Shapes",
         "author": "Vlad",
@@ -27,7 +27,7 @@
         },
           {
         "name": "Gradient Rocks 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/gradient_rocks2.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/gradient_rocks2.png",
          
         "collections": "Shapes",
         "author": "Vlad",
@@ -35,7 +35,7 @@
       },
           {
         "name": "Gradient Rocks",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/gradient_rocks.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/gradient_rocks.png",
          
         "collections": "Shapes",
         "author": "Vlad",
@@ -43,7 +43,7 @@
       },
           {
         "name": "Purple Blobs",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/purple_blobs.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/purple_blobs.png",
          
         "collections": "Amoled",
         "author": "Vlad",
@@ -51,7 +51,7 @@
       },
           {
         "name": "Green Blobs",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/green_blobs.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/green_blobs.png",
          
         "collections": "Amoled",
         "author": "Vlad",
@@ -59,7 +59,7 @@
       },
            {
         "name": "Gradient Blobs 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/gradient_blobs2.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/gradient_blobs2.png",
          
         "collections": "Amoled",
         "author": "Vlad",
@@ -67,7 +67,7 @@
       },
           {
         "name": "Gradient Blobs",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/gradient_blobs.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/gradient_blobs.png",
          
         "collections": "Amoled",
         "author": "Vlad",
@@ -75,7 +75,7 @@
       },
            {
         "name": "Fruit Blobs",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/fruit_blobs.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/fruit_blobs.png",
          
         "collections": "Amoled",
         "author": "Vlad",
@@ -83,7 +83,7 @@
       },
           {
         "name": "Blue Blobs",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/blue_blobs.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/blue_blobs.png",
          
         "collections": "Amoled",
         "author": "Vlad",
@@ -91,7 +91,7 @@
       },
           {
         "name": "Leaf",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/material_lf_blue.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/material_lf_blue.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -99,7 +99,7 @@
       },
           {
         "name": "Cacto 3",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/material_cts_dark.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/material_cts_dark.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -107,7 +107,7 @@
       },
            {
         "name": "Cacto 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/material_cts.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/material_cts.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -115,7 +115,7 @@
       },
           {
         "name": "Cacto",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/material_cacto.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/material_cacto.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -123,7 +123,7 @@
       },
           {
         "name": "Crystal Stars",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/crystal_stars.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/crystal_stars.png",
          
         "collections": "Crystal",
         "author": "Digital Ali",
@@ -131,7 +131,7 @@
       },
           {
         "name": "Starry",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/starry.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/starry.png",
          
         "collections": "Amoled",
         "author": "Digital Ali",
@@ -139,7 +139,7 @@
       },
           {
         "name": "EarthX",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/earthx.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/earthx.png",
          
         "collections": "Amoled",
         "author": "Digital Ali",
@@ -147,7 +147,7 @@
       },
           {
         "name": "Dope Green",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/dope_green.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/dope_green.png",
          
         "collections": "Abstract",
         "author": "Digital Ali",
@@ -155,7 +155,7 @@
       },
           {
         "name": "Dope Blue",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/dope_blue.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/dope_blue.png",
          
         "collections": "Abstract",
         "author": "Digital Ali",
@@ -163,7 +163,7 @@
       },
           {
         "name": "Summer Swirl",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/summer_swirl.jpg",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/summer_swirl.jpg",
          
         "collections": "Abstract",
         "author": "Digital Ali",
@@ -171,7 +171,7 @@
       },
           {
         "name": "Neon Swirl",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/neon_swirl.jpg",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/neon_swirl.jpg",
          
         "collections": "Abstract",
         "author": "Digital Ali",
@@ -179,7 +179,7 @@
       },
            {
         "name": "Water",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/water.jpg",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/water.jpg",
          
         "collections": "Abstract",
         "author": "Digital Ali",
@@ -187,7 +187,7 @@
       },
           {
         "name": "Caramel",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/caramel.jpg",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/caramel.jpg",
          
         "collections": "Abstract",
         "author": "Digital Ali",
@@ -195,14 +195,14 @@
       },
           {
         "name": "Doodle Amoled",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/Doodle(Amoled).png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Doodle(Amoled).png",
         "collections": "Material",
         "author": "decipher",
         "copyright": " Personal use only"
       },
            {
         "name": "Doodle",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/Doodle.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Doodle.png",
          
         "collections": "Material",
         "author": "decipher",
@@ -210,7 +210,7 @@
       },
           {
         "name": "Dimensions",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/Dimensions.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Dimensions.png",
          
         "collections": "Shapes",
         "author": "decipher",
@@ -218,14 +218,14 @@
       },
            {
         "name": "Dimensions Dark",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/Dimensions(Dark).png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Dimensions(Dark).png",
         "collections": "Shapes",
         "author": "decipher",
         "copyright": " Personal use only"
       },
           {
         "name": "Rocky",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/rocky.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/rocky.png",
          
         "collections": "Amoled",
         "author": "Atlasov Anton",
@@ -233,7 +233,7 @@
       },
           {
         "name": "Simple Material Dark",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/simple_material_dark.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/simple_material_dark.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -241,7 +241,7 @@
       },
           {
         "name": "Simple Material",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/simple_material.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/simple_material.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -249,7 +249,7 @@
       },
            {
         "name": "ChrOS2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/chrOS2.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/chrOS2.png",
          
         "collections": "OS Inspired",
         "author": "erneandroid",
@@ -257,7 +257,7 @@
       },
           {
         "name": "Waves Ocean",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/WavesOcean.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/WavesOcean.png",
          
         "collections": "Abstract",
         "author": "Arzjo Design",
@@ -265,7 +265,7 @@
       },
           {
         "name": "Waves Candy",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/WavesCandy.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/WavesCandy.png",
          
         "collections": "Abstract",
         "author": "Arzjo Design",
@@ -273,7 +273,7 @@
       },
           {
         "name": "Waves Neon",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/WavesNeon.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/WavesNeon.png",
          
         "collections": "Abstract",
         "author": "Arzjo Design",
@@ -281,7 +281,7 @@
       },
            {
         "name": "Waves Green",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/WavesGreen.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/WavesGreen.png",
          
         "collections": "Abstract",
         "author": "Arzjo Design",
@@ -289,7 +289,7 @@
       },
           {
         "name": "Curtain Blue",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/CurtainBlue.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/CurtainBlue.png",
          
         "collections": "Abstract",
         "author": "Arzjo Design",
@@ -297,7 +297,7 @@
       },
           {
         "name": "Curtain Fire",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/CurtainFire.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/CurtainFire.png",
          
         "collections": "Abstract",
         "author": "Arzjo Design",
@@ -305,7 +305,7 @@
       },
           {
         "name": "Curtain Night",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/CurtainNight.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/CurtainNight.png",
          
         "collections": "Abstract",
         "author": "Arzjo Design",
@@ -313,7 +313,7 @@
       },
           {
         "name": "Curtain Red",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/CurtainRed.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/CurtainRed.png",
          
         "collections": "Abstract",
         "author": "Arzjo Design",
@@ -321,7 +321,7 @@
       },
           {
         "name": "Fluid 4",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/fluid4.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/fluid4.png",
          
         "collections": "Abstract",
         "author": "justnewwalls",
@@ -329,7 +329,7 @@
       },
           {
         "name": "Fluid 3",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/fluid3.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/fluid3.png",
          
         "collections": "Abstract",
         "author": "justnewwalls",
@@ -337,7 +337,7 @@
       },
           {
         "name": "Astro 5",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/astro5.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/astro5.png",
          
         "collections": "Aesthetic",
         "author": "Galahad WPX",
@@ -345,7 +345,7 @@
       },
           {
         "name": "Astro 4",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/astro4.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/astro4.png",
          
         "collections": "Aesthetic",
         "author": "Galahad WPX",
@@ -353,7 +353,7 @@
       },
           {
         "name": "Astro 3",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/astro3.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/astro3.png",
          
         "collections": "Aesthetic",
         "author": "Galahad WPX",
@@ -361,7 +361,7 @@
       },
           {
         "name": "Astro 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/astro2.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/astro2.png",
          
         "collections": "Aesthetic",
         "author": "Galahad WPX",
@@ -369,7 +369,7 @@
       },
           {
         "name": "Astro",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/astro.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/astro.png",
          
         "collections": "Aesthetic",
         "author": "Galahad WPX",
@@ -377,7 +377,7 @@
       },
           {
         "name": "BT21 Van 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/van.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/van.png",
          
         "collections": "Characters",
         "author": "iOSXPC",
@@ -385,7 +385,7 @@
       },
           {
         "name": "BT21 Shooky 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/shooky.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/shooky.png",
          
         "collections": "Characters",
         "author": "iOSXPC",
@@ -393,7 +393,7 @@
       },
           {
         "name": "BT21 Tata 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/tata.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/tata.png",
          
         "collections": "Characters",
         "author": "iOSXPC",
@@ -401,7 +401,7 @@
       },
           {
         "name": "BT21 RJ 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/rj.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/rj.png",
          
         "collections": "Characters",
         "author": "iOSXPC",
@@ -409,7 +409,7 @@
       },
           {
         "name": "BT21 Chimmy 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/chimmy.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/chimmy.png",
          
         "collections": "Characters",
         "author": "iOSXPC",
@@ -417,7 +417,7 @@
       },
            {
         "name": "BT21 Mang 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/mang.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/mang.png",
          
         "collections": "Characters",
         "author": "iOSXPC",
@@ -425,7 +425,7 @@
       },
           {
         "name": "BT21 Koya 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/koya.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/koya.png",
          
         "collections": "Characters",
         "author": "iOSXPC",
@@ -433,7 +433,7 @@
       },
           {
         "name": "BT21 Cooky 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/cooky.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/cooky.png",
          
         "collections": "Characters",
         "author": "iOSXPC",
@@ -441,7 +441,7 @@
           },
           {
         "name": "Material Leaf",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/material_leaf.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/material_leaf.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -449,7 +449,7 @@
       },
            {
         "name": "Minimal Leaf 6",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/minimal_leaf6.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/minimal_leaf6.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -457,7 +457,7 @@
       },
            {
         "name": "Minimal Leaf 5",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/minimal_leaf5.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/minimal_leaf5.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -465,7 +465,7 @@
       },
            {
         "name": "Minimal Leaf 4",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/minimal_leaf4.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/minimal_leaf4.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -473,7 +473,7 @@
       },
           {
         "name": "Minimal Leaf 3",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/minimal_leaf3.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/minimal_leaf3.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -481,7 +481,7 @@
       },
           {
         "name": "Minimal Leaf 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/minimal_leaf2.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/minimal_leaf2.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -489,7 +489,7 @@
       },
           {
         "name": "Floral Sketch",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/sketch_floral.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/sketch_floral.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -497,7 +497,7 @@
       },
           {
         "name": "Floral Doodle",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/floral_doodle.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/floral_doodle.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -505,7 +505,7 @@
       },
           {
         "name": "Floral Purple",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/floral_purple.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/floral_purple.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -513,7 +513,7 @@
       },
           {
         "name": "Minimal Flower",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/minimal_flower.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/minimal_flower.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -521,7 +521,7 @@
       },
           {
         "name": "Minimal Green",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/minimal_green.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/minimal_green.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -529,7 +529,7 @@
       },
              {
         "name": "Minimal Leaf",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/minimal_leaf.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/minimal_leaf.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -537,7 +537,7 @@
       },
            {
         "name": "Minimal Flower Dark",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/minimal_flower_dark.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/minimal_flower_dark.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -545,7 +545,7 @@
       },
           {
         "name": "Planets 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/planets.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/planets.png",
          
         "collections": "Abstract",
         "author": "Galahad WPX",
@@ -553,7 +553,7 @@
       },
           {
         "name": "Shape Gradient",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/shape_gradient.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/shape_gradient.png",
          
         "collections": "Abstract",
         "author": "Galahad WPX",
@@ -561,7 +561,7 @@
       },
           {
         "name": "BT21 Cooky",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/bt21_cooky.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/bt21_cooky.png",
          
         "collections": "Characters",
         "author": "iOSXPC",
@@ -569,7 +569,7 @@
       },
           {
         "name": "BT21 Koya",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/bt21_koya.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/bt21_koya.png",
          
         "collections": "Characters",
         "author": "iOSXPC",
@@ -577,7 +577,7 @@
       },
           {
         "name": "BT21 Tata",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/bt21_tata.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/bt21_tata.png",
          
         "collections": "Characters",
         "author": "iOSXPC",
@@ -585,7 +585,7 @@
       },
           {
         "name": "BT21 Mang",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/bt21_mang.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/bt21_mang.png",
          
         "collections": "Characters",
         "author": "iOSXPC",
@@ -593,7 +593,7 @@
       },
            {
         "name": "Floral Yellow Dark",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/floral_yellowdark.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/floral_yellowdark.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -601,7 +601,7 @@
       },
           {
         "name": "Draw Material",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/draw_material.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/draw_material.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -609,7 +609,7 @@
       },
                 {
         "name": "Gradient Ball",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/gradient_ball.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/gradient_ball.png",
          
         "collections": "Amoled",
         "author": "Galahad WPX",
@@ -617,7 +617,7 @@
       },
           {
         "name": "Blur Shapes",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/blur_shapes.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/blur_shapes.png",
          
         "collections": "Abstract",
         "author": "Galahad WPX",
@@ -625,7 +625,7 @@
       },
           {
         "name": "Face Unlock",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/faceunlock.jpg",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/faceunlock.jpg",
          
         "collections": "Aesthetic",
         "author": "popleble",
@@ -633,7 +633,7 @@
       },      
     {
         "name": "Spring 3",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/spring3.jpeg",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/spring3.jpeg",
          
         "collections": "Flora",
         "author": "popleble",
@@ -641,7 +641,7 @@
       },
        {
         "name": "Moonshine 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/moonshine2.jpg",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/moonshine2.jpg",
          
         "collections": "Material",
         "author": "justnewwalls",
@@ -649,7 +649,7 @@
       },
         {
         "name": "Moonshine",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/moonshine.jpg",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/moonshine.jpg",
          
         "collections": "Material",
         "author": "justnewwalls",
@@ -657,7 +657,7 @@
       },
       {
         "name": "Shapes 5",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/shapes5.PNG",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/shapes5.PNG",
          
         "collections": "Shapes",
         "author": "justnewwalls",
@@ -665,7 +665,7 @@
       },
       {
         "name": "Shapes 4",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/shapes4.PNG",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/shapes4.PNG",
          
         "collections": "Shapes",
         "author": "justnewwalls",
@@ -673,7 +673,7 @@
       },
       {
         "name": "Shapes 3",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/shapes3.PNG",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/shapes3.PNG",
          
         "collections": "Shapes",
         "author": "justnewwalls",
@@ -681,7 +681,7 @@
       },
       {
         "name": "Shapes 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/shapes2.PNG",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/shapes2.PNG",
          
         "collections": "Shapes",
         "author": "justnewwalls",
@@ -689,7 +689,7 @@
       },
       {
         "name": "Shapes 1",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/shapes1.jpg",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/shapes1.jpg",
          
         "collections": "Shapes",
         "author": "Digital Ali",
@@ -697,7 +697,7 @@
       },
       {
         "name": "Shapes",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/shapes.jpg",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/shapes.jpg",
          
         "collections": "Shapes",
         "author": "Digital Ali",
@@ -705,7 +705,7 @@
       },
       {
         "name": "BT21 Van",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/bt21_van.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/bt21_van.png",
          
         "collections": "Characters",
         "author": "iOSXPC",
@@ -713,7 +713,7 @@
       },
       {
         "name": "BT21 Shooky",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/bt21_shooky.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/bt21_shooky.png",
          
         "collections": "Characters",
         "author": "iOSXPC",
@@ -721,7 +721,7 @@
       },
       {
         "name": "BT21 RJ",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/bt21_rj.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/bt21_rj.png",
          
         "collections": "Characters",
         "author": "iOSXPC",
@@ -729,7 +729,7 @@
       },
       {
         "name": "BT21 Chimmy",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/bt21_chimmy.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/bt21_chimmy.png",
          
         "collections": "Characters",
         "author": "iOSXPC",
@@ -737,7 +737,7 @@
       },
         {
         "name": "Pot 4",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/pot4.PNG",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/pot4.PNG",
          
         "collections": "Flora",
         "author": "justnewwalls",
@@ -745,7 +745,7 @@
       },
         {
         "name": "Pot 5",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/pot5.PNG",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/pot5.PNG",
          
         "collections": "Flora",
         "author": "justnewwalls",
@@ -753,7 +753,7 @@
       },
        {
         "name": "Pot 6",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/IMG_5239.PNG",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/IMG_5239.PNG",
          
         "collections": "Flora",
         "author": "justnewwalls",
@@ -761,7 +761,7 @@
       },
       {
         "name": "Marigold",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/marigold.PNG",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/marigold.PNG",
          
         "collections": "Abstract",
         "author": "justnewwalls",
@@ -769,7 +769,7 @@
       },
        {
         "name": "Magnolia",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/magnolia.PNG",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/magnolia.PNG",
          
         "collections": "Abstract",
         "author": "justnewwalls",
@@ -777,7 +777,7 @@
       },
        {
         "name": "Gel",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/gel.PNG",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/gel.PNG",
          
         "collections": "Abstract",
         "author": "justnewwalls",
@@ -785,7 +785,7 @@
       },
       {
         "name": "Desert",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/desert.PNG",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/desert.PNG",
          
         "collections": "Abstract",
         "author": "justnewwalls",
@@ -793,7 +793,7 @@
       },
        {
         "name": "Blobs",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/blobs.jpg",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/blobs.jpg",
          
         "collections": "Abstract",
         "author": "justnewwalls",
@@ -801,7 +801,7 @@
       },
          {
         "name": "Tubes",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/tubes_amoled.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/tubes_amoled.png",
          
         "collections": "Amoled",
         "author": "Galahad WPX",
@@ -809,7 +809,7 @@
       },
        {
         "name": "Fluid",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/fluid.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/fluid.png",
          
         "collections": "Amoled",
         "author": "Galahad WPX",
@@ -817,7 +817,7 @@
       },
       {
         "name": "Fluid 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/fluid2.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/fluid2.png",
          
         "collections": "Amoled",
         "author": "Galahad WPX",
@@ -825,7 +825,7 @@
       },
         {
         "name": "Poker 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/sand.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/sand.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -833,7 +833,7 @@
       },
       {
         "name": "Poker Dark",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/poker_dark.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/poker_dark.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -841,7 +841,7 @@
       },
       {
         "name": "Poker",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/poker.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/poker.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -849,7 +849,7 @@
       },
         {
         "name": "Texture",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/texture_MY.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/texture_MY.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -857,7 +857,7 @@
       },
       {
         "name": "Abstract You Dark",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/abstract_you_dark.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/abstract_you_dark.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -865,7 +865,7 @@
       },
         {
         "name": "Abstract You",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/abstract_you.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/abstract_you.png",
          
         "collections": "Material",
         "author": "Galahad WPX",
@@ -873,7 +873,7 @@
       },
       {
         "name": "My Floral 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/my_floral2.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/my_floral2.png",
          
         "collections": "Flora",
         "author": "Galahad WPX",
@@ -881,7 +881,7 @@
       },
       {
         "name": "My Floral 2 Dark",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/my_floral_dark2.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/my_floral_dark2.png",
          
         "collections": "Flora",
         "author": "Galahad WPX",
@@ -889,7 +889,7 @@
       },
       {
         "name": "My Floral",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/my_floral.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/my_floral.png",
          
         "collections": "Flora",
         "author": "Galahad WPX",
@@ -897,7 +897,7 @@
       },
       {
         "name": "My Floral Dark",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/my_floral_dark.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/my_floral_dark.png",
          
         "collections": "Flora",
         "author": "Galahad WPX",
@@ -905,7 +905,7 @@
       },
       {
         "name": "Material U 9",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/materialu9.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/materialu9.png",
          
         "collections": "Material",
         "author": "Digital Ali",
@@ -913,7 +913,7 @@
       },
       {
         "name": "Material U 8",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/materialu8.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/materialu8.png",
          
         "collections": "Material",
         "author": "Digital Ali",
@@ -921,7 +921,7 @@
       },
       {
         "name": "Material U 7",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/materialu7.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/materialu7.png",
          
         "collections": "Material",
         "author": "Digital Ali",
@@ -929,7 +929,7 @@
       },
       {
         "name": "Material U 6",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/materialu6.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/materialu6.png",
          
         "collections": "Material",
         "author": "Digital Ali",
@@ -937,7 +937,7 @@
       },
       {
         "name": "Material U 5",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/materialu5.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/materialu5.png",
          
         "collections": "Material",
         "author": "Digital Ali",
@@ -945,7 +945,7 @@
       },
       {
         "name": "Material U 4",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/materialu4.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/materialu4.png",
          
         "collections": "Material",
         "author": "Digital Ali",
@@ -953,7 +953,7 @@
       },
       {
         "name": "Material U 3",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/materialu3.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/materialu3.png",
          
         "collections": "Material",
         "author": "Digital Ali",
@@ -961,7 +961,7 @@
       },
       {
         "name": "Material U 2",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/materialu2.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/materialu2.png",
          
         "collections": "Material",
         "author": "Digital Ali",
@@ -969,7 +969,7 @@
       },
       {
         "name": "Material U",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/materialu.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/materialu.png",
          
         "collections": "Material",
         "author": "Digital Ali",
@@ -977,7 +977,7 @@
       },
       {
         "name": "Shape Hand",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/shape_hand.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/shape_hand.png",
          
         "collections": "Abstract",
         "author": "Galahad WPX",
@@ -985,7 +985,7 @@
       },
       {
         "name": "Inside The Box",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/InsideTheBox.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/InsideTheBox.png",
          
         "collections": "Shapes",
         "author": "Digital Ali",
@@ -993,7 +993,7 @@
       },
       {
         "name": "Inside The Box Pink",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/InsideTheBoxPink.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/InsideTheBoxPink.png",
          
         "collections": "Shapes",
         "author": "Digital Ali",
@@ -1001,7 +1001,7 @@
       },
       {
         "name": "Scribbles",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/Scribbles.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Scribbles.png",
          
         "collections": "Aesthetic",
         "author": "Digital Ali",
@@ -1009,7 +1009,7 @@
       },
       {
         "name": "Neon Sunset",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/NeonSunset.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/NeonSunset.png",
          
         "collections": "Gradient",
         "author": "Digital Ali",
@@ -1017,7 +1017,7 @@
       },
       {
         "name": "Beach Sunset",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/raw/main/walls/BeachSunset.png",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/BeachSunset.png",
          
         "collections": "Gradient",
         "author": "Digital Ali",
