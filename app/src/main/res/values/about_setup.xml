@@ -2,26 +2,52 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
     <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
         <item>https://github.com/n3rd3x3.png</item>
-        <item>https://ssl.gstatic.com/images/branding/product/2x/avatar_square_grey_512dp.png</item>
+        <item>https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/assets/galahad_wpx.jpeg</item>
+        <item>https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/assets/popleble.svg</item>
+        <item>https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/assets/DDigitalAli.jpeg</item>
+        <item>https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/assets/iOSXPC.jpeg</item>
+        <item>https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/assets/ArzjoDev.jpeg</item>
+        <item>https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/assets/antonajdhdhb.jpeg</item>
     </string-array>
 
     <string-array name="credits_titles">
         <item>n3rd3x3</item>
-        <item>galahad_wpx</item>
+        <item>Galahad WPX</item>
+        <item>Ömer SÜSİN (popleble)</item>
+        <item>Digital Ali</item>
+        <item>iOSXPC</item>
+        <item>Arzjo Design</item>
+        <item>Atlasov Anton</item>
+
     </string-array>
 
     <string-array name="credits_descriptions">
-        <item>Developer, wallpaper creator</item>
+        <item>Developer, wallpaper creator, designer</item>
+        <item>Wallpaper creator, designer</item>
+        <item>Wallpaper creator, popMODS founder</item>
+        <item>Wallpaper creator</item>
+        <item>Wallpaper creator</item>
+        <item>Wallpaper creator</item>
         <item>Wallpaper creator</item>
     </string-array>
 
     <string-array name="credits_buttons">
-        <item>Website|GitHub|Twitter|Telegram</item>
+        <item>Website|GitHub|Telegram</item>
+        <item>Telegram</item>
+        <item>Telegram</item>
+        <item>Twitter|Telegram</item>
+        <item>Telegram|Apps</item>
+        <item>Telegram|Apps</item>
         <item>Telegram</item>
     </string-array>
 
     <string-array name="credits_links">
-        <item>https://n3rd3x3.dev|https://github.com/n3rd3x3|https://twitter.com/n3rd3x3|https://t.me/n3rd3x3</item>
+        <item>https://n3rd3x3.dev|https://github.com/n3rd3x3|https://t.me/n3rd3x3</item>
         <item>https://t.me/galahad_wpx</item>
+        <item>https://t.me/popleble</item>
+        <item>https://twitter.com/DdigitalAli|https://t.me/DdigitalAli</item>
+        <item>https://t.me/iosxpc|https://play.google.com/store/apps/dev?id=8241325694316298254</item>
+        <item>https://t.me/ArzjoDev|https://play.google.com/store/apps/dev?id=5509040561085650680</item>
+        <item>https://t.me/antonajdhdhb</item>
     </string-array>
 </resources>
