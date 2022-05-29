@@ -7,4 +7,4 @@ Want to get notified of new updates? [Join our Telegram](https://t.me/popWALLS).
 Notice: this app is not associated with the [popWalls app present on the Google Play Store](https://play.google.com/store/apps/details?id=com.pop.walls&gl=US), and has no relation to it.
 
 Other info:
-- Uses [Frames](https://github.com/jahirfiquitiva/Frames
+- Uses [Frames](https://github.com/jahirfiquitiva/Frames)
