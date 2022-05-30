@@ -1,4 +1,22 @@
-[ 
+[
+  {
+    "name": "Flowers",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Flowers.png",
+    "author": "decipher",
+    "collections": "Shapes",
+    "size": 1761656,
+    "dimensions": "1080 x 2340",
+    "copyright": "Personal Use only"
+  },
+  {
+    "name": "Blob 2",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Blob-02.png",
+    "author": "decipher",
+    "collections": "Shapes",
+    "size": 625807,
+    "dimensions": "1080 x 2340",
+    "copyright": "Personal Use only"
+  },
     {
         "name": "Windows 11 Inspired 1",
         "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/win11.1.png",
