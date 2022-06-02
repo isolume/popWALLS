@@ -1,12 +1,30 @@
 [
   {
+    "name": "Organic",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Organic-01.png",
+    "author": "decipher",
+    "collections": "Material",
+    "size": 100606,
+    "dimensions":"1080 x 2340",
+    "copyright": "Personal use only"
+  },
+  {
+    "name": "Liquify",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Liquify.png",
+    "author": "decipher",
+    "collections": "Abstract",
+    "size": 759448,
+    "dimensions": "1080 x 2340",
+    "copyright":"Personal use only"
+  },
+  {
     "name": "Flowers",
     "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Flowers.png",
     "author": "decipher",
     "collections": "Shapes",
     "size": 1761656,
     "dimensions": "1080 x 2340",
-    "copyright": "Personal Use only"
+    "copyright": "Personal use only"
   },
   {
     "name": "Blob 2",
@@ -15,7 +33,7 @@
     "collections": "Shapes",
     "size": 625807,
     "dimensions": "1080 x 2340",
-    "copyright": "Personal Use only"
+    "copyright": "Personal use only"
   },
     {
         "name": "Windows 11 Inspired 1",
