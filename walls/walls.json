@@ -1,12 +1,201 @@
 [
   {
+    "name": "Mountain",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Montana.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "size": 7966765,
+    "dimensions":"2484 x 5376",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Rainbow 2.1",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Rainbow.2.1.png",
+    "author":"Martín Ayunta",
+    "collections": "Material",
+    "size": 4460085,
+    "dimensions":"2484 x 5376",
+    "copyright": "Personal use only"
+  },
+  {
+    "name": "Green Paper",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/GreenPapel.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "size": 4824635,
+    "dimensions": "2484 x 5376",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Purple Paper",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/PurplePapel.png",
+    "author":"Martín Ayunta",
+    "collections": "Material",
+    "size": 5258529,
+    "dimensions": "2484 x 5376",
+    "copyright": "Personal use only"
+  },
+  {
+    "name": "Pink Paper",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/PinkPapel.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "size": 6746682,
+    "dimensions":"2484 x 5376",
+    "copyright": "Personal use only"
+  },
+  {
+    "name": "Yellow Paper",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/YellowPapel.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "size": 4787310,
+    "dimensions":"2484 x 5376",
+    "copyright":"Personal use only"
+  },
+  {
+    "name":"Pale Droid 11",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Paledroid10.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "size": 107753,
+    "dimensions":"1242 x 2688",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Pale Droid 10",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Paledroid9.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "size": 108103,
+    "dimensions":"1242 x 2688",
+    "copyright": "Personal use only"
+  },
+  {
+    "name": "Pale Droid 9",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Paledroid8.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "size": 107164,
+    "dimensions":"1242 x 2688",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Pale Droid 8",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Paledroid7.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "size": 109414,
+    "dimensions":"1242 x 2688",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Pale Droid 7",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Paledroid6.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "size": 106748,
+    "dimensions":"1242 x 2688",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Pale Droid 6",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Paledroid4.png",
+    "author":"Martín Ayunta",
+    "collections": "Material",
+    "size": 108010,
+    "dimensions":"1242 x 2688",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "pale Droid 5",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Paledroid5.png",
+    "author":"Martín Ayunta",
+    "collections": "Material",
+    "size": 107948,
+    "dimensions":"1242 x 2688",
+    "copyright": "Personal use only"
+  },
+  {
+    "name": "Pale Droid 4",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Paletadroid4.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "size": 93937,
+    "dimensions":"1242 x 2688",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Pale Droid 3",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Paledroidcolor3.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "size": 106814,
+    "dimensions":"1242 x 2688",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Pale Droid 2",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Paledroidcolor2.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "size": 114733,
+    "dimensions":"1242 x 2688",
+    "copyright": "Personal use only"
+  },
+  {
+    "name": "Pale Droid 1",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Paletadroid1.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "size": 107185,
+    "dimensions":"1242 x 2688",
+    "copyright": "Personal use only"
+  },
+  {
+    "name": "Pale Droid AMOLED v2",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/AmoledPaledroidv2.png",
+    "author": "Martín Ayunta",
+    "collections": "Material, Amoled",
+    "size": 130075,
+    "dimensions": "1242 x 2688",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Pale Droid AMOLED",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/AmoledPaledroid.png",
+    "author": "Martín Ayunta",
+    "collections": "Material, Amoled",
+    "size": 164998,
+    "dimensions": "1242 x 2688",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Organic",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Organic-01.png",
+    "author": "decipher",
+    "collections": "Material",
+    "size": 100606,
+    "dimensions":"1080 x 2340",
+    "copyright": "Personal use only"
+  },
+  {
+    "name": "Liquify",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Liquify.png",
+    "author": "decipher",
+    "collections": "Abstract",
+    "size": 759448,
+    "dimensions": "1080 x 2340",
+    "copyright":"Personal use only"
+  },
+  {
     "name": "Flowers",
     "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Flowers.png",
     "author": "decipher",
     "collections": "Shapes",
     "size": 1761656,
     "dimensions": "1080 x 2340",
-    "copyright": "Personal Use only"
+    "copyright": "Personal use only"
   },
   {
     "name": "Blob 2",
@@ -15,7 +204,7 @@
     "collections": "Shapes",
     "size": 625807,
     "dimensions": "1080 x 2340",
-    "copyright": "Personal Use only"
+    "copyright": "Personal use only"
   },
     {
         "name": "Windows 11 Inspired 1",
