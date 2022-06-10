@@ -1,5 +1,149 @@
 [
   {
+    "name": "Yellow Blur",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/blur.yellow.png",
+    "author": "Martín Ayunta",
+    "collections": "Material, Abstract",
+    "size": 6214719,
+    "dimensions":"2484 x 5376",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Red Blur",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/blur.red.png",
+    "author": "Martín Ayunta",
+    "collections": "Material, Abstract",
+    "size": 5976419,
+    "dimensions":"2484 x 5376",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Purple Blur",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/blur.purple.png",
+    "author": "Martín Ayunta",
+    "collections": "Material, Abstract",
+    "size": 6320015,
+    "dimensions":"2484 x 5376",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Pink Blur",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/blur.pink.png",
+    "author": "Martín Ayunta",
+    "collections": "Material, Abstract",
+    "size": 5886820,
+    "dimensions":"2484 x 5376",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Lima Blur",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/blur.lima.png",
+    "author": "Martín Ayunta",
+    "collections": "Material, Abstract",
+    "size": 6176025,
+    "dimensions":"2484 x 5376",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Cyan Blur",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/blur.cyan.png",
+    "author": "Martín Ayunta",
+    "collections": "Material, Abstract",
+    "size": 6331995,
+    "dimensions":"2484 x 5376",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Blue Blur",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/blur.blue.png",
+    "author": "Martín Ayunta",
+    "collections": "Material, Abstract",
+    "size": 6183820,
+    "dimensions":"2484 x 5376",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Black Blur",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/blur.black.png",
+    "author": "Martín Ayunta",
+    "collections": "Material, Abstract",
+    "size": 4946008,
+    "dimensions":"2484 x 5376",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Liquid 2",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/L2.png",
+    "author": "decipher",
+    "collections": "Abstract",
+    "size": 440234,
+    "dimensions": "1080 x 2340",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Liquid",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/L.png",
+    "author": "decipher",
+    "collections": "Abstract",
+    "size": 585663,
+    "dimensions": "1080 x 2340",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Squid Shapes 2",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Picsart_22-06-05_23-48-27-147.jpg",
+    "author": "popleble",
+    "collections": "AMOLED, Shapes",
+    "size": 109637,
+    "dimensions": "1843 x 4096",
+    "copyright": "Personal use only"
+  },
+  {
+    "name": "Squid Shapes 1",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Picsart_22-06-06_00-04-40-400.jpg",
+    "author": "popleble",
+    "collections": "AMOLED, Shapes",
+    "size": 124480,
+    "dimensions": "1843 x 4096",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Salmon Dino 2",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Picsart_22-06-06_04-25-30-234.jpg",
+    "author": "popleble",
+    "collections": "Aesthetic, AMOLED",
+    "size": 38508,
+    "dimensions": "700 x 1400",
+    "copyright": "Personal use only"
+  },
+  {
+    "name": "Salmon Dino",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/1654478950643.jpg",
+    "author": "popleble",
+    "collections": "Aesthetic",
+    "size": 1030039,
+    "dimensions":"1280 x 2560",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Orange Dino",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/1654478869198.jpg",
+    "author": "popleble",
+    "collections": "Aesthetic, AMOLED",
+    "size": 520315,
+    "dimensions": "1280 x 2560",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Pixel",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/IMG_20220607_184925_063.png",
+    "author": "decipher",
+    "collections": "Shapes, Abstract",
+    "size": 181518,
+    "dimensions": "2160 x 4680",
+    "copyright":"Personal use only"
+  },
+  {
     "name": "Mountain",
     "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Montana.png",
     "author": "Martín Ayunta",
@@ -154,18 +298,18 @@
   },
   {
     "name": "Pale Droid AMOLED v2",
-    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/AmoledPaledroidv2.png",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/AMOLEDPaledroidv2.png",
     "author": "Martín Ayunta",
-    "collections": "Material, Amoled",
+    "collections": "Material, AMOLED",
     "size": 130075,
     "dimensions": "1242 x 2688",
     "copyright":"Personal use only"
   },
   {
     "name": "Pale Droid AMOLED",
-    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/AmoledPaledroid.png",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/AMOLEDPaledroid.png",
     "author": "Martín Ayunta",
-    "collections": "Material, Amoled",
+    "collections": "Material, AMOLED",
     "size": 164998,
     "dimensions": "1242 x 2688",
     "copyright":"Personal use only"
@@ -252,7 +396,7 @@
         "name": "Purple Blobs",
         "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/purple_blobs.png",
          
-        "collections": "Amoled",
+        "collections": "AMOLED",
         "author": "Vlad",
         "copyright": "Personal use only"
       },
@@ -260,7 +404,7 @@
         "name": "Green Blobs",
         "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/green_blobs.png",
          
-        "collections": "Amoled",
+        "collections": "AMOLED",
         "author": "Vlad",
         "copyright": "Personal use only"
       },
@@ -268,7 +412,7 @@
         "name": "Gradient Blobs 2",
         "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/gradient_blobs2.png",
          
-        "collections": "Amoled",
+        "collections": "AMOLED",
         "author": "Vlad",
         "copyright": "Personal use only"
       },
@@ -276,7 +420,7 @@
         "name": "Gradient Blobs",
         "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/gradient_blobs.png",
          
-        "collections": "Amoled",
+        "collections": "AMOLED",
         "author": "Vlad",
         "copyright": "Personal use only"
       },
@@ -284,7 +428,7 @@
         "name": "Fruit Blobs",
         "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/fruit_blobs.png",
          
-        "collections": "Amoled",
+        "collections": "A",
         "author": "Vlad",
         "copyright": "Personal use only"
       },
@@ -292,7 +436,7 @@
         "name": "Blue Blobs",
         "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/blue_blobs.png",
          
-        "collections": "Amoled",
+        "collections": "AMOLED",
         "author": "Vlad",
         "copyright": "Personal use only"
       },
@@ -340,7 +484,7 @@
         "name": "Starry",
         "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/starry.png",
          
-        "collections": "Amoled",
+        "collections": "AMOLED",
         "author": "Digital Ali",
         "copyright": "Personal use only"
       },
@@ -348,7 +492,7 @@
         "name": "EarthX",
         "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/earthx.png",
          
-        "collections": "Amoled",
+        "collections": "AMOLED",
         "author": "Digital Ali",
         "copyright": "Personal use only"
       },
@@ -401,8 +545,8 @@
         "copyright": "Personal use only"
       },
           {
-        "name": "Doodle Amoled",
-        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Doodle(Amoled).png",
+        "name": "Doodle AMOLED",
+        "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Doodle(AMOLED).png",
         "collections": "Material",
         "author": "decipher",
         "copyright": "Personal use only"
@@ -434,7 +578,7 @@
         "name": "Rocky",
         "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/rocky.png",
          
-        "collections": "Amoled",
+        "collections": "AMOLED",
         "author": "Atlasov Anton",
         "copyright": "Personal use only"
       },
@@ -531,7 +675,7 @@
           "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/CurtainGreen.png",
           "collections": "Abstract",
           "author": "Arzjo Design",
-          "copyright": "Personal Use only"
+          "copyright": "Personal use only"
       },
           {
         "name": "Astro 5",
@@ -809,7 +953,7 @@
         "name": "Gradient Ball",
         "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/gradient_ball.png",
          
-        "collections": "Amoled",
+        "collections": "AMOLED",
         "author": "Galahad WPX",
         "copyright": "Personal use only"
       },
@@ -873,7 +1017,7 @@
         "name": "Fluid",
         "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/fluid.png",
          
-        "collections": "Amoled",
+        "collections": "AMOLED",
         "author": "Galahad WPX",
         "copyright": "Personal use only"
       },
@@ -881,7 +1025,7 @@
         "name": "Fluid 2",
         "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/fluid2.png",
          
-        "collections": "Amoled",
+        "collections": "AMOLED",
         "author": "Galahad WPX",
         "copyright": "Personal use only"
       },

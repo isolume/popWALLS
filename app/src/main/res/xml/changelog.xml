@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="v1.0.1" />
-    <item text="Fix some credits" />
+    <version title="v1.1.0" />
+    <item text="Add MANY new walls" />
+    <item text="A new author" />
+    <item text="Dynamically themed icon" />
 </resources>
