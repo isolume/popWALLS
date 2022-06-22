@@ -1,4 +1,179 @@
-[
+[ 
+  {
+    "name": "Currents (Fox)",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/Picsart_22-06-12_01-47-51-152.jpg",
+    "author": "popleble",
+    "collections": "Abstract",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Currents (Yaw)",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/Picsart_22-06-12_01-47-38-275.jpg",
+    "author": "popleble",
+    "collections": "Abstract",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Currents (Forest)",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/Picsart_22-06-12_01-47-26-877.jpg",
+    "author": "popleble",
+    "collections": "Abstract",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Currents (RGB)",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/Picsart_22-06-12_01-47-18-147.jpg",
+    "author": "popleble",
+    "collections": "Abstract",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Currents",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/Picsart_22-06-12_01-47-03-505.jpg",
+    "author": "popleble",
+    "collections": "Abstract",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Overhead (Melting)",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/Picsart_22-06-12_01-34-39-310.jpg",
+    "author": "popleble",
+    "collections": "Abstract",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Overhead (Oxidized)",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/Picsart_22-06-12_01-34-28-302.jpg",
+    "author": "popleble",
+    "collections": "Abstract",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Overhead (Textured)",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/Picsart_22-06-12_01-33-42-803.jpg",
+    "author": "popleble",
+    "collections": "Abstract",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Overhead (Overcast)",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/Picsart_22-06-12_01-33-31-755.jpg",
+    "author": "popleble",
+    "collections": "Abstract",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Overhead (Galaxy)",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/Picsart_22-06-12_01-32-53-468.jpg",
+    "author": "popleble",
+    "collections": "Abstract",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Overhead (Into the Sunset)",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/Picsart_22-06-12_01-32-34-466.jpg",
+    "author": "popleble",
+    "collections": "Abstract",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Overhead (Night Sky)",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/Picsart_22-06-12_01-31-39-223.jpg",
+    "author": "popleble",
+    "collections": "Abstract",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Earth (Brown)",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Earth.1.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "copyright":"Personal use only"
+  }, 
+  {
+    "name": "Earth (Green)",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/earth.green.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Earth (Cyan)",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/earth.cyan.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Earth (Blue)",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/earth.blue.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Earth (Purple)",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/earth.purple.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "copyright":"Personal use only"
+  },
+  {
+  "name": "Earth (Red)",
+  "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/earth.red.png",
+  "author": "Martín Ayunta",
+  "collections": "Material",
+  "copyright":"Personal use only"
+  },
+  {
+    "name": "Earth (Orange)",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/earth.orange.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Route 99",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/pexels-sebastian-palomino-1955134.png",
+    "author": "Agent XLVII",
+    "collections": "pop",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Beach Flow",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/Picsart_22-06-11_08-37-25-581.png",
+    "author": "popleble",
+    "collections": "Abstract",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Tri Flow",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/Picsart_22-06-11_08-36-46-573.png",
+    "author": "popleble",
+    "collections": "Abstract",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Green Flow",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/wallsPicsart_22-06-11_08-36-32-572.png",
+    "author": "popleble",
+    "collections": "Abstract",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Green Space",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/GreenMaterialyou.png",
+    "author": "Martín Ayunta",
+    "collections": "Material",
+    "copyright":"Personal use only"
+  },
+  {
+    "name": "Flower 2",
+    "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/flower2.3.png",
+    "author": "Martín Ayunta",
+    "collections": "Material, Flora",
+    "copyright":"Personal use only"
+  },
   {
     "name": "Yellow Blur",
     "url": "https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/walls/Blur.Yellow.png",
