@@ -17,6 +17,9 @@
     <style name="MyApp.SplashScreen" parent="Frames.SplashScreen">
         <item name="customFontBold">@font/manrope_bold_fam</item>
         <item name="customFontNormal">@font/manrope_normal_fam</item>
+        <item name="android:elevation">0dp</item>
+        <item name="cardElevation">0dp</item>
+        <item name="elevation">0dp</item>
     </style>
 
     <!-- Don't change the parent style -->
@@ -24,6 +27,9 @@
         <item name="bottomNavigationStyle">@style/MyApp.BottomNavigationView</item>
         <item name="customFontBold">@font/manrope_bold_fam</item>
         <item name="customFontNormal">@font/manrope_normal_fam</item>
+        <item name="android:elevation">0dp</item>
+        <item name="cardElevation">0dp</item>
+        <item name="elevation">0dp</item>
     </style>
 
     <!-- Don't change the parent style -->
@@ -31,6 +37,9 @@
         <item name="bottomNavigationStyle">@style/MyApp.BottomNavigationView</item>
         <item name="customFontBold">@font/manrope_bold_fam</item>
         <item name="customFontNormal">@font/manrope_normal_fam</item>
+        <item name="android:elevation">0dp</item>
+        <item name="cardElevation">0dp</item>
+        <item name="elevation">0dp</item>
     </style>
 
     <!-- Don't change the parent style -->

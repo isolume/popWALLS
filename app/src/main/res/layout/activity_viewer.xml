@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@id/activity_root_view"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <ProgressBar
+        android:id="@id/loading"
+        style="?android:progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:clickable="false"
+        android:focusable="false"
+        android:gravity="center" />
+
+    <com.ortiz.touchview.TouchImageView
+        android:id="@id/wallpaper"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="centerCrop" />
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@id/appbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent"
+        android:clipChildren="false"
+        android:clipToPadding="false"
+        android:transitionName="appbar"
+        app:elevation="0.0dip">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:id="@id/toolbar"
+            style="?toolbarStyle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32.0dip"
+            android:layout_marginTop="30.0dip"
+            android:layout_marginEnd="32.0dip"
+            android:background="@drawable/section_wall"
+            android:clipChildren="false"
+            android:clipToPadding="false"
+            android:minHeight="?actionBarSize"
+            android:paddingTop="3.0dip"
+            android:paddingBottom="3.0dip">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="0.0dip"
+                android:clipChildren="false"
+                android:gravity="center_vertical"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@id/toolbar_title"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/google_sans_medium"
+                    android:textAppearance="@style/TextAppearance.Frames.ToolbarTitle.Viewer"
+                    android:textColor="@color/white"
+                    android:textSize="16.0sp" />
+
+                <TextView
+                    android:id="@id/toolbar_subtitle"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1.0dip"
+                    android:layout_marginBottom="0.0dip"
+                    android:fontFamily="@font/google_sans"
+                    android:textAppearance="@style/TextAppearance.Widget.AppCompat.Toolbar.Subtitle"
+                    android:textColor="@color/white"
+                    android:textSize="14.0sp" />
+            </LinearLayout>
+        </com.google.android.material.appbar.MaterialToolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="30.0dip"
+        android:clipChildren="false"
+        android:gravity="center_vertical">
+
+        <dev.jahir.frames.ui.widgets.FramesBottomNavigationView
+            android:id="@id/bottom_navigation"
+            style="@style/Widget.Frames.ViewerBottomNavigationView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginStart="30.0dip"
+            android:layout_marginEnd="32.0dip"
+            android:layout_marginBottom="16.0dip"
+            android:background="@drawable/section_wall"
+            android:elevation="0.0dip"
+            android:gravity="bottom"
+            android:paddingLeft="10.0dip"
+            android:paddingTop="3.0dip"
+            android:paddingRight="10.0dip"
+            android:paddingBottom="3.0dip"
+            app:elevation="0.0dip"
+            app:labelVisibilityMode="unlabeled"
+            app:menu="@menu/bottom_actions_menu" />
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
