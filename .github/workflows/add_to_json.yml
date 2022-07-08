@@ -5,7 +5,7 @@ on:
   push:
     branches:
       - main
-     paths:
+    paths:
       module.prop
   workflow_dispatch:
 
@@ -17,8 +17,8 @@ jobs:
     
       - name: get repo
         uses: actions/checkout@v2
-          with:
-            fetch-depth: 2
+        with:
+          fetch-depth: 2
       
       - name: get latest commit files
         id: fID
