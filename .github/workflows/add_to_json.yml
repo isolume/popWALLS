@@ -1,0 +1,26 @@
+# made to simplify the process of adding new walls
+
+name: add to json
+on:
+  push:
+    branches:
+      - main
+     paths:
+      module.prop
+  workflow_dispatch:
+
+jobs:
+  put:
+    name: Add assets to json
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: get repo
+        uses: actions/checkout@v2
+          with:
+            fetch-depth: 2
+      
+      - name: get latest commit files
+        id: fID
+        run: git diff-tree --no-commit-id --name-only -r ${{ github.sha }}
+      
