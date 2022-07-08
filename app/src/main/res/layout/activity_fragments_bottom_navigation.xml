@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@id/activity_root_view"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:clipChildren="false"
+        android:transitionName="appbar">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@id/toolbar"
+            style="?toolbarStyle"
+            android:layout_width="fill_parent"
+            android:layout_height="?actionBarSize"
+            android:background="?colorPrimary"
+            android:minHeight="?actionBarSize"
+            app:titleTextAppearance="@style/TextAppearance.Frames.ToolbarTitle" />
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <FrameLayout
+        android:id="@id/fragments_container"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/boc_header_background_round"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+    <dev.jahir.frames.ui.widgets.FramesBottomNavigationView
+        android:id="@id/bottom_navigation"
+        style="?bottomNavigationStyle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="@drawable/boc_header_background_2"
+        android:paddingTop="10.0dip"
+        android:paddingBottom="20.0dip"
+        app:elevation="0.0dip"
+        app:itemIconTint="@drawable/bottom_navigation_states"
+        app:itemTextColor="@drawable/bottom_navigation_states"
+        app:menu="@menu/bottom_navigation_menu" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
