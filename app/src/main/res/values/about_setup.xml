@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
     <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
         <item>https://github.com/n3rd3x3.png</item>
-        <item>https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/assets/galahad_wpx.jpeg</item>
+        <item>https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/main/App/Resources/Avatars/dg.jpg</item>
         <item>https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/assets/popleble.png</item>
         <item>https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/assets/DdigitalAli.jpeg</item>
         <item>https://raw.githubusercontent.com/n3rd3x3/popWALLS/main/assets/iOSXPC.jpeg</item>
@@ -36,7 +36,7 @@
 
     <string-array name="credits_buttons">
         <item>Website|GitHub|Telegram</item>
-        <item>Telegram</item>
+        <item>Telegram|Github</item>
         <item>Telegram</item>
         <item>Twitter|Telegram</item>
         <item>Telegram|Apps</item>
@@ -47,7 +47,7 @@
 
     <string-array name="credits_links">
         <item>https://n3rd3x3.dev|https://github.com/n3rd3x3|https://t.me/n3rd3x3</item>
-        <item>https://t.me/galahad_wpx</item>
+        <item>https://t.me/galahad_wpx|https://github.com/WaifuPX-DG</item>
         <item>https://t.me/popleble</item>
         <item>https://twitter.com/DdigitalAli|https://t.me/DdigitalAli</item>
         <item>https://t.me/iosxpc|https://play.google.com/store/apps/dev?id=8241325694316298254</item>
