@@ -1,7 +1,6 @@
 # popWALLS
 
-The long awaited return of popWALLS is finally upon us! <br>
-**[Download it now](https://github.com/n3rd3x3/popWALLS/releases/tag/v1.0.0)** <br>
+Please wait, popWALLS will soon be on the Play Store.<br>
 Want to get notified of new updates? [Join our Telegram](https://t.me/popWALLS).
 
 Other info:
