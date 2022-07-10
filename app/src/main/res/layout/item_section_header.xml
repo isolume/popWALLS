@@ -12,6 +12,8 @@
     <com.google.android.material.textview.MaterialTextView
         android:id="@id/section_title"
         style="@style/TextStyle.Frames.Subtitle2"
+        android:fontFamily="@font/google_sans_medium"
+        android:textAllCaps="true"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:paddingStart="72.0dip"
