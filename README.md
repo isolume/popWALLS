@@ -1,7 +1,6 @@
 # popWALLS
 
-Please wait, popWALLS will soon be on the Play Store.<br>
-Want to get notified of new updates? [Join our Telegram](https://t.me/popWALLS).
+This is the old version of popWALLS. The new version (on the Play Store) is required to be able to use new wallpapers.
 
 Other info:
 - Uses [Frames](https://github.com/jahirfiquitiva/Frames)
